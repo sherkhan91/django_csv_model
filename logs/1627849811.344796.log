@@ -1,0 +1,2 @@
+WARNING:django.request:Not Found: /elementapp/getinformation/1
+WARNING:django.request:Not Found: /elementapp/getinformationbyid/1
